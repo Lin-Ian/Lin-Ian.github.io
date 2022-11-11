@@ -116,6 +116,18 @@ header {
   margin-top: 0;
 }
 
+/* Certifications
+----------------------------------- */
+.certifications a {
+  color: #343434;
+  text-decoration: none;
+}
+.certifications a:link,
+.certifications a:visited {
+  color: #343434;
+  text-decoration: none;
+}
+
 /* Contact Info
 ----------------------------------- */
 footer {
