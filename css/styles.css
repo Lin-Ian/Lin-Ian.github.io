@@ -116,6 +116,11 @@ header {
 .description {
   margin-top: 0;
 }
+.description a:link,
+.description a:visited {
+  color: #f7fff7;
+  text-decoration: none;
+}
 
 /* Certifications
 ----------------------------------- */
