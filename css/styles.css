@@ -119,6 +119,9 @@ header {
 
 /* Certifications
 ----------------------------------- */
+.certifications {
+  background: #f7fff7;
+}
 .certifications a {
   color: #343434;
   text-decoration: none;
